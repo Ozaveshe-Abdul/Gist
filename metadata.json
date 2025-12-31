@@ -1,0 +1,7 @@
+{
+  "name": "Gist News",
+  "description": "A minimalist, AI-powered news aggregator that delivers concise summaries (gists) of the world's latest stories. Powered by Gemini with real-time search grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
